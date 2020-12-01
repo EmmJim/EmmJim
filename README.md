@@ -15,5 +15,5 @@
 
 <hr>
 
-<img alt="EmmJim GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EmmJim&show_icons=true&theme=dark" style="max-width:100%"/>
-<img alt="EmmJim Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" style="max-width:100%"/>
+<img alt="EmmJim GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=EmmJim&show_icons=true&theme=dark" style="max-width:100%"/>
+<img alt="EmmJim Most Used Languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" style="max-width:100%"/>
