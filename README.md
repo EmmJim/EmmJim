@@ -3,18 +3,11 @@
   
 
 - 🔭 I’m currently working on [REST Server](https://github.com/EmmJim/RESTServer)  
-  
-
 - 🌱 I’m currently learning React Native and Expo  
-  
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
 - ⚡ Fun fact: I use tabs over spaces  
-  
 
-<br/>  
+<hr/>  
 
 
 ## My Skill Set  
@@ -70,14 +63,14 @@
 
 </td></tr></table>  
 
-<br/>  
+<hr/>  
 
 ## Github Stats  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmjim&show_icons=true&theme=dark&title_color=2fbcc5&text_color=ffffff&bg_color=334586&hide_border=true&locale=en&layout=compact" alt="emmjim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmjim&show_icons=true&theme=dark&title_color=2fbcc5&text_color=ffffff&bg_color=334586&hide_border=true&locale=en" alt="emmjim" /></p>  
 
-<br/>  
+<hr/>  
 
 <div align="center">
 <a href="https://github.com/EmmJim" target="_blank">
