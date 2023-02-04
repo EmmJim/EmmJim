@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Emmanuel Jiménez, a full-stack developer 👨‍💻 </div>  
   
@@ -76,8 +72,13 @@
 
 <br/>  
 
+## Github Stats  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmjim&show_icons=true&theme=dark&title_color=2fbcc5&text_color=ffffff&bg_color=334586&hide_border=true&locale=en&layout=compact" alt="emmjim" /></p>
 
-## Connect with me  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmjim&show_icons=true&theme=dark&title_color=2fbcc5&text_color=ffffff&bg_color=334586&hide_border=true&locale=en" alt="emmjim" /></p>  
+
+<br/>  
+
 <div align="center">
 <a href="https://github.com/EmmJim" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -90,13 +91,5 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmjim&show_icons=true&theme=dark&title_color=2fbcc5&text_color=ffffff&bg_color=334586&hide_border=true&locale=en&layout=compact" alt="emmjim" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmjim&show_icons=true&theme=dark&title_color=2fbcc5&text_color=ffffff&bg_color=334586&hide_border=true&locale=en" alt="emmjim" /></p>  
 
 <br/>  
