@@ -1,9 +1,9 @@
-### <h1 align="center">Hi, I'm Emmanuel Jiménez, a full-stack developer 👨‍💻 </h1>  
+### <h1 align="center">Hi, I'm Emmanuel Jiménez, a Full-Stack / Mobile developer 👨‍💻 </h1>  
   
 
-- 🔭 I’m currently working on [REST Server](https://github.com/EmmJim/RESTServer)  
-- 🌱 I’m currently learning React Native and Expo  
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🔭 I’m currently working on [Taskify App](https://github.com/EmmJim/Taskify-React-Native)
+- 🌱 I’m currently learning Swift 
+- ❓ Ask me about anything related to MERN and Mobile Development
 - ⚡ Fun fact: I use tabs over spaces  
 
 <hr/>  
@@ -50,6 +50,11 @@
 
 </td><td valign="top" width="33%">
 
+### Mobile Dev  
+<div align="center">  
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
+</div>
 
 
 ### DevOps  
